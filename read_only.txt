@@ -1,13 +1,8 @@
-Hi this is Sudipti Patnaha and I'm going to earn lot of money....
-I will buy lot of good good things
-I am very happy
-
-
-####### this is second amendments
-
-git is just a version control system 
-git hub is a repo
-.....
-adding few more lines
-looking perfect, will commit now....
-bye byee....
+java
+python
+c
+c++
+php
+html
+scala
+AIgit git 
